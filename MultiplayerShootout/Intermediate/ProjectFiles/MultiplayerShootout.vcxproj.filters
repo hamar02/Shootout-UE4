@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MultiplayerShootout.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{393D3C3A-7387-46B5-A786-1E3FE97FDF7E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MultiplayerShootout.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MultiplayerShootoutEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{4B665C15-01BA-4654-9935-0BAD353FC4A2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MultiplayerShootout">
+			<UniqueIdentifier>{7E7E72A2-DEEC-40D9-8029-7E7047C9517D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MultiplayerShootout\MultiplayerShootout.Build.cs">
+			<Filter>Source\MultiplayerShootout</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MultiplayerShootout\MultiplayerShootout.cpp">
+			<Filter>Source\MultiplayerShootout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MultiplayerShootout\MultiplayerShootout.h">
+			<Filter>Source\MultiplayerShootout</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MultiplayerShootout\MyClass.cpp">
+			<Filter>Source\MultiplayerShootout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MultiplayerShootout\MyClass.h">
+			<Filter>Source\MultiplayerShootout</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
