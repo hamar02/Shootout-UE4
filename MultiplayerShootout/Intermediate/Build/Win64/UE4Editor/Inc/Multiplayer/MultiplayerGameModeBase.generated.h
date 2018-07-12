@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MULTIPLAYER_MultiplayerGameModeBase_generated_h
 
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMultiplayerGameModeBase(); \
 	friend MULTIPLAYER_API class UClass* Z_Construct_UClass_AMultiplayerGameModeBase(); \
@@ -25,7 +25,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS \
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAMultiplayerGameModeBase(); \
 	friend MULTIPLAYER_API class UClass* Z_Construct_UClass_AMultiplayerGameModeBase(); \
@@ -35,7 +35,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMultiplayerGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMultiplayerGameModeBase) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMultiplayerGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -61,32 +61,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMultiplayerGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMultiplayerGameModeBase)
 
 
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_12_PROLOG
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_12_PROLOG
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_GENERATED_BODY \
+#define MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+	MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Multiplayer_Source_Multiplayer_MultiplayerGameModeBase_h
+#define CURRENT_FILE_ID MultiplayerShootout_Source_Multiplayer_MultiplayerGameModeBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

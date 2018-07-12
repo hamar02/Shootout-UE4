@@ -1,3 +1,6 @@
-D:\Unreal Projects\MultiplayerShootout\Source\MultiplayerShootout\MultiplayerShootout.Build.cs
-D:\Unreal Projects\MultiplayerShootout\Source\MultiplayerShootout.Target.cs
-D:\Unreal Projects\MultiplayerShootout\Source\MultiplayerShootoutEditor.Target.cs
+D:\Unreal Projects\Shootout-UE4\MultiplayerShootout\Source\Multiplayer\Multiplayer.Build.cs
+D:\Unreal Projects\Shootout-UE4\MultiplayerShootout\Source\MultiplayerShootout\MultiplayerShootout.Build.cs
+D:\Unreal Projects\Shootout-UE4\MultiplayerShootout\Source\Multiplayer.Target.cs
+D:\Unreal Projects\Shootout-UE4\MultiplayerShootout\Source\MultiplayerEditor.Target.cs
+D:\Unreal Projects\Shootout-UE4\MultiplayerShootout\Source\MultiplayerShootout.Target.cs
+D:\Unreal Projects\Shootout-UE4\MultiplayerShootout\Source\MultiplayerShootoutEditor.Target.cs
